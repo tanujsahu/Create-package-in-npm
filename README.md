@@ -1,3 +1,25 @@
+## Keywords:
+- create npm package
+- how to create npm package
+- npm package tutorial
+- build npm package
+- npm package creation
+- Node.js package
+- publish npm package
+- npm init
+- package.json setup
+- npm publishing
+- NPM CLI
+- Node.js module development
+- JavaScript package creation
+- open-source npm package
+- NPM registry
+- packaging JavaScript code
+- creating reusable npm package
+- package distribution
+- NPM workflow
+- versioning npm package
+
 # Create-package-in-npm
 Creating a new package in npm (Node Package Manager) involves several steps, from setting up your project to publishing it on the npm registry. Here’s a detailed guide to help you through the process:
 
